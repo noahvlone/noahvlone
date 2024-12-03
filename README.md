@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi, my name is Farhan Ramadhan</h1>
 <h4 align="center">Welcome to my GitHub! I'm from South Jakarta, Jakarta, Indonesia.</h4>
 
@@ -23,7 +21,7 @@ To combine my curiosity in technology with practical skills in AI and machine le
 
 ## 🛠️ Tools & Technologies
 
-![](https://skillicons.dev/icons?i=python,tensorflow,mysql,vscode,c++,js,html,css,bootstrap,java,figma,anaconda,git,&perline=19)
+![](https://skillicons.dev/icons?i=python,tensorflow,mysql,vscode,cpp,js,html,css,bootstrap,java,figma,anaconda,git,&perline=19)
 
 ## 📊 GitHub Statsss
 <p align="left">
