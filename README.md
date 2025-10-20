@@ -3,8 +3,7 @@
 
 ## 🌟 About Me
    
-Hi there! I'm a Informatics student at **Universitas Pancasila** 🎓, and I'm interest to data science, machine learning and ai which means i'm amaze with that things. Currently on an exciting journey into **Machine Learning** through the **Bangkit Program** by Google, GoTo, and Traveloka. 🚀
-
+Hi there! I'm a Informatics student at **Universitas Pancasila** 🎓, and I'm interest to data science, machine learning and ai which means i'm amaze with that things.
 ### 🔭 What I’m Working On
 - 📘 **Learning about Machine Learning using Python**: Trying out different ML models and exploring Python tools to understand how things work.
 - 📈 **Improving Data Science & Analysis Skills**: Focusing on basic statistics and math concepts to make sense of data.
