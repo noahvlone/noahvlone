@@ -61,7 +61,7 @@
 
 ![Farhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=noahvlone&show_icons=true&theme=radical&border_color=7CFC00&bg_color=0d1117&title_color=7CFC00&icon_color=7CFC00)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=noahvlone&theme=radical&border=7CFC00&dates=7CFC00&fire=FF6F00)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=noahvlone&theme=radical&border=7CFC00&fire=FF6F00)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=noahvlone&layout=compact&theme=radical&border_color=7CFC00&bg_color=0d1117&title_color=7CFC00)
 
@@ -90,3 +90,5 @@
 ⭐ **From Jakarta with code** • 🚀 **Exploring the data universe** • 💫 **Building the future**
 
 </div>
+
+---
