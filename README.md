@@ -10,7 +10,7 @@ Hi there! I'm a Informatics student at **Universitas Pancasila** 🎓, and I'm i
 - 🛠️ **Getting Involved in Projects**: Joining open-source initiatives and learning how to collaborate with others.
 
 ### 🌱 Learning Goals
-- Becoming a **Data Scientist** / **Machine Learning Researcher** / **Data Analyst** who can extract valuable insights and solve real-world problems.
+- Becoming a **Data Scientist** / **Machine Learning Researcher** / **AI Engineer** who can extract valuable insights and solve real-world problems.
 - Expanding my knowledge in data analysis, data science, AI, and continually embracing new tech skills.
 - Becoming better at using data and machine learning to solve everyday problems.
 - Learning more about AI and how to apply it in simple and meaningful ways.
