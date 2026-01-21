@@ -1,6 +1,6 @@
 <div align="left">
 
-# Welcome to My Code Universe 🌌
+# Welcome to My Code Universe 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header&animation=twinkling&fontAlignY=32" width="100%"/>
 
