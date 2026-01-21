@@ -10,7 +10,6 @@
 
 ---
 
-
 ### 🎯 Quick Facts About Me
 
 ```python
@@ -98,11 +97,11 @@ me.say_hi()
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=noahvlone&theme=tokyonight&hide_border=true&background=0D1117&stroke=A277FF&ring=61DAFB&fire=FF6B6B&currStreakLabel=FFFFFF" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=noahvlone&theme=tokyonight&hide_border=true&background=0D1117&stroke=A277FF&ring=61DAFB&fire=FF6B6B&currStreakLabel=FFFFFF" alt="GitHub Streak Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=noahvlone&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A277FF&line=61DAFB&point=FF6B6B" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=noahvlone&custom_title=Contribution%20Graph&bg_color=0D1117&color=A277FF&line=61DAFB&point=FF6B6B&area=true&hide_border=true" width="100%"/>
 </div>
 
 ---
@@ -110,7 +109,7 @@ me.say_hi()
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=noahvlone&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=noahvlone&theme=tokyonight&no-frame=true&no-bg=false&row=1&column=7&margin-w=15&margin-h=15" width="100%" alt="Trophy" />
 </div>
 
 ---
