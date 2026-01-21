@@ -10,9 +10,8 @@
 
 ## 🌟 About Me
 
-<div align="center">
+<div align="left">
   
-🎓 **Informatics Student at Universitas Pancasila**  
 💫 **Passionate about Data Science, Machine Learning & AI**  
 🚀 **On a journey to decode the universe through data**
 
