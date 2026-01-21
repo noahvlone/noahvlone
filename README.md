@@ -1,80 +1,142 @@
-# Hi, my name is Farhan Ramadhan ✨
-
 <div align="center">
-  
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7CFC00&width=435&lines=Welcome+to+my+GitHub!;Data+Science+Enthusiast;Machine+Learning+Learner;AI+Explorer;From+Jakarta%2C+Indonesia)
 
-![Cosmic Animation](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
+# 🌌 Welcome to My Digital Universe 🌌
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A277FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Farhan+Ramadhan+%F0%9F%91%8B;Machine+Learning+Enthusiast+%F0%9F%A4%96;Data+Science+Explorer+%F0%9F%93%8A;AI+Researcher+in+Training+%F0%9F%9A%80" alt="Typing SVG" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Farhan%20Ramadhan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
 
 </div>
 
-## 🌟 About Me
+---
 
-<div align="left">
-  
-💫 **Passionate about Data Science, Machine Learning & AI**  
-🚀 **On a journey to decode the universe through data**
 
-</div>
+### 🎯 Quick Facts About Me
 
-### 🎯 Current Focus
-- 📘 **Exploring Machine Learning** with Python & TensorFlow
-- 📈 **Mastering Data Science** fundamentals & statistical analysis
-- 🌌 **Building cosmic projects** that solve real-world problems
-- 🤝 **Contributing to open-source** & collaborative learning
+```python
+class FarhanRamadhan:
+    def __init__(self):
+        self.username = "noahvlone"
+        self.location = "South Jakarta, Indonesia 🇮🇩"
+        self.education = "Informatics @ Universitas Pancasila"
+        self.interests = ["Data Science", "Machine Learning", "AI"]
+        self.current_focus = "Building ML models & exploring AI"
+        
+    def say_hi(self):
+        print("Thanks for visiting! Let's connect and build something amazing!")
 
-### 🚀 Future Aspirations
-- Becoming a **Cosmic Data Scientist** 🌠
-- Building **AI systems** that make life better 🧠
-- Creating **data visualizations** that tell stories 📊
-- Never stopping the learning journey 📚
+me = FarhanRamadhan()
+me.say_hi()
+```
 
-## 🛠️ Tech Stack & Cosmic Tools
+<br>
+
+---
+
+## 🚀 What I'm Up To
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔭 Current Projects
+- 📘 **ML with Python**: Experimenting with different models
+- 📊 **Data Analysis**: Diving deep into statistics & math
+- 🤝 **Open Source**: Contributing to collaborative projects
+- 🧠 **AI Research**: Exploring cutting-edge algorithms
+
+</td>
+<td width="50%">
+
+### 🌱 Learning Journey
+- 🎓 Becoming a **Data Scientist**
+- 🤖 Mastering **Machine Learning**
+- 🔬 Growing as an **AI Researcher**
+- 💡 Solving real-world problems with data
+
+</td>
+</tr>
+</table>
+
+---
+
+## 💻 Tech Stack & Tools
 
 <div align="center">
 
-### **Languages & Frameworks**
+### Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-### **Web & Styling**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### **Tools & Platforms**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### AI/ML & Data Science
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+
+### Tools & Platforms
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
 
-## 📊 GitHub Universe Stats
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=noahvlone&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A277FF&icon_color=61DAFB&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noahvlone&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A277FF&text_color=FFFFFF"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=noahvlone&theme=tokyonight&hide_border=true&background=0D1117&stroke=A277FF&ring=61DAFB&fire=FF6B6B&currStreakLabel=FFFFFF" alt="GitHub Streak Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=noahvlone&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A277FF&line=61DAFB&point=FF6B6B" width="100%"/>
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=noahvlone&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
+</div>
+
+---
+
+## 🎯 Vision & Mission
 
 <div align="center">
 
-![Farhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=noahvlone&show_icons=true&theme=radical&border_color=7CFC00&bg_color=0d1117&title_color=7CFC00&icon_color=7CFC00)
+> 💡 *"To combine curiosity in technology with practical AI skills,*  
+> *making data more understandable and useful for everyone"*
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=noahvlone&theme=radical&border=7CFC00&fire=FF6F00)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=noahvlone&layout=compact&theme=radical&border_color=7CFC00&bg_color=0d1117&title_color=7CFC00)
-
-![Cosmic Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=noahvlone&theme=react-dark&bg_color=0d1117&color=7CFC00&line=FF6F00&point=FFFFFF&area=true&hide_border=true)
+**🎓 Future Goals:** Data Scientist | ML Researcher | AI Engineer
 
 </div>
 
-## 🌌 Connect With Me Across the Cosmos
+---
+
+## 📬 Let's Connect!
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/farhan-ramadhan-ml-ai/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/noahvlone)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farhanramadhan.frr@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/farhan-ramadhan-ml-ai/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/noahvlone)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+
+<img src="https://komarev.com/ghpvc/?username=noahvlone&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile views" />
 
 </div>
 
@@ -82,12 +144,17 @@
 
 <div align="center">
 
-### ✨ **"Data is the new stars, and I'm here to map the constellations"** ✨
+### 💫 "Learning never exhausts the mind" - Leonardo da Vinci
 
-![Cosmic Footer](https://media.giphy.com/media/3o7aCTPPm4OHfRLSH6/giphy.gif)
-
-⭐ **From Jakarta with code** • 🚀 **Exploring the data universe** • 💫 **Building the future**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
 
 ---
+
+<div align="center">
+  
+**⭐ Star my repos if you find them interesting!**  
+**🤝 Open to collaborate on ML/AI projects**
+
+</div>
