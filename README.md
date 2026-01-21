@@ -106,10 +106,17 @@ me.say_hi()
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements & Highlights
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=noahvlone&theme=tokyonight&no-frame=true&no-bg=false&row=1&column=7&margin-w=15&margin-h=15" width="100%" alt="Trophy" />
+
+| 🎯 Focus Areas | 💪 Skills Level | 🚀 Status |
+|:---:|:---:|:---:|
+| Machine Learning | 🔥🔥🔥⚪⚪ | Learning |
+| Data Science | 🔥🔥🔥⚪⚪ | Learning |
+| Python Programming | 🔥🔥🔥🔥⚪ | Intermediate |
+| AI Research | 🔥🔥⚪⚪⚪ | Beginner |
+
 </div>
 
 ---
@@ -148,5 +155,3 @@ me.say_hi()
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
-
----
